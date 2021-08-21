@@ -1,0 +1,2987 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "25d55ad283aa400af464c76d713c07ad",
+    "loginToken": "96632fe164ca1077eb1172fae242b13b",
+    "logs": [
+      {
+        "time": "2021-08-21T10:54:42.893Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"D:\\Hack\\server\\app\\factory\\apktool.jar\" b \"D:\\Hack\\server\\app\\factory\\decompiled\" -o \"D:\\Hack\\server\\assets\\webpublic\\build.apk\"\nS: WARNING: Could not write to (C:\\Users\\shanu\\AppData\\Local\\apktool\\framework), using C:\\Users\\shanu\\AppData\\Local\\Temp\\ instead...\r\nS: Please be aware this is a volatile directory and frameworks could go missing, please utilize --frame-path if the default storage directory is unavailable\r\njava.io.FileNotFoundException: D:\\Hack\\server\\app\\factory\\decompiled\\build\\apk\\classes.dex (Operation did not complete successfully because the file contains a virus or potentially unwanted software)\r\n"
+      },
+      {
+        "time": "2021-08-21T10:55:11.869Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"D:\\Hack\\server\\app\\factory\\apktool.jar\" b \"D:\\Hack\\server\\app\\factory\\decompiled\" -o \"D:\\Hack\\server\\assets\\webpublic\\build.apk\"\njava.io.FileNotFoundException: D:\\Hack\\server\\app\\factory\\decompiled\\build\\apk\\classes.dex (Operation did not complete successfully because the file contains a virus or potentially unwanted software)\r\n"
+      },
+      {
+        "time": "2021-08-21T10:57:43.629Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"D:\\Hack\\server\\app\\factory\\apktool.jar\" b \"D:\\Hack\\server\\app\\factory\\decompiled\" -o \"D:\\Hack\\server\\assets\\webpublic\\build.apk\"\njava.io.FileNotFoundException: D:\\Hack\\server\\app\\factory\\decompiled\\build\\apk\\classes.dex (Operation did not complete successfully because the file contains a virus or potentially unwanted software)\r\n"
+      },
+      {
+        "time": "2021-08-21T10:58:54.523Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2021-08-21T11:03:24.878Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Connected"
+      },
+      {
+        "time": "2021-08-21T11:04:35.401Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:05:10.162Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Disconnected"
+      },
+      {
+        "time": "2021-08-21T11:05:30.385Z",
+        "type": "INFO",
+        "message": "2cf1e0b0bdd84bc1 Connected"
+      },
+      {
+        "time": "2021-08-21T11:06:40.030Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From 2cf1e0b0bdd84bc1"
+      },
+      {
+        "time": "2021-08-21T11:07:24.954Z",
+        "type": "SUCCESS",
+        "message": "2cf1e0b0bdd84bc1 Call Log Updated - 8158 New Calls"
+      },
+      {
+        "time": "2021-08-21T11:07:26.681Z",
+        "type": "INFO",
+        "message": "2cf1e0b0bdd84bc1 Disconnected"
+      },
+      {
+        "time": "2021-08-21T11:07:26.707Z",
+        "type": "INFO",
+        "message": "2cf1e0b0bdd84bc1 Connected"
+      },
+      {
+        "time": "2021-08-21T11:07:26.716Z",
+        "type": "INFO",
+        "message": "2cf1e0b0bdd84bc1 Connected"
+      },
+      {
+        "time": "2021-08-21T11:07:26.723Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From 2cf1e0b0bdd84bc1"
+      },
+      {
+        "time": "2021-08-21T11:07:29.753Z",
+        "type": "SUCCESS",
+        "message": "2cf1e0b0bdd84bc1 Call Log Updated - 0 New Calls"
+      },
+      {
+        "time": "2021-08-21T11:07:38.201Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 2cf1e0b0bdd84bc1"
+      },
+      {
+        "time": "2021-08-21T11:07:38.289Z",
+        "type": "SUCCESS",
+        "message": "2cf1e0b0bdd84bc1 GPS Updated"
+      },
+      {
+        "time": "2021-08-21T11:08:10.161Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 2cf1e0b0bdd84bc1"
+      },
+      {
+        "time": "2021-08-21T11:08:10.211Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2021-08-21T11:08:16.152Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 2cf1e0b0bdd84bc1"
+      },
+      {
+        "time": "2021-08-21T11:08:16.342Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2021-08-21T11:08:18.688Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 2cf1e0b0bdd84bc1"
+      },
+      {
+        "time": "2021-08-21T11:08:18.787Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2021-08-21T11:08:28.393Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 2cf1e0b0bdd84bc1"
+      },
+      {
+        "time": "2021-08-21T11:08:28.565Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2021-08-21T11:08:32.301Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 2cf1e0b0bdd84bc1"
+      },
+      {
+        "time": "2021-08-21T11:08:32.441Z",
+        "type": "INFO",
+        "message": "Recieving File From2cf1e0b0bdd84bc1"
+      },
+      {
+        "time": "2021-08-21T11:08:32.596Z",
+        "type": "SUCCESS",
+        "message": "File From2cf1e0b0bdd84bc1 Saved"
+      },
+      {
+        "time": "2021-08-21T11:09:16.515Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 2cf1e0b0bdd84bc1"
+      },
+      {
+        "time": "2021-08-21T11:09:23.322Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 2cf1e0b0bdd84bc1"
+      },
+      {
+        "time": "2021-08-21T11:09:36.170Z",
+        "type": "INFO",
+        "message": "Requested 0xPM From 2cf1e0b0bdd84bc1"
+      },
+      {
+        "time": "2021-08-21T11:09:36.278Z",
+        "type": "SUCCESS",
+        "message": "2cf1e0b0bdd84bc1 Permissions Updated"
+      },
+      {
+        "time": "2021-08-21T11:09:40.677Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From 2cf1e0b0bdd84bc1"
+      },
+      {
+        "time": "2021-08-21T11:09:43.272Z",
+        "type": "SUCCESS",
+        "message": "2cf1e0b0bdd84bc1 Apps Updated"
+      },
+      {
+        "time": "2021-08-21T11:09:43.737Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From 2cf1e0b0bdd84bc1"
+      },
+      {
+        "time": "2021-08-21T11:09:45.257Z",
+        "type": "SUCCESS",
+        "message": "2cf1e0b0bdd84bc1 Apps Updated"
+      },
+      {
+        "time": "2021-08-21T11:09:55.625Z",
+        "type": "INFO",
+        "message": "Requested 0xWI From 2cf1e0b0bdd84bc1"
+      },
+      {
+        "time": "2021-08-21T11:09:55.867Z",
+        "type": "SUCCESS",
+        "message": "2cf1e0b0bdd84bc1 WiFi Updated - 10 New WiFi Hotspots Found"
+      },
+      {
+        "time": "2021-08-21T11:10:10.129Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From 2cf1e0b0bdd84bc1"
+      },
+      {
+        "time": "2021-08-21T11:10:12.881Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From 2cf1e0b0bdd84bc1"
+      },
+      {
+        "time": "2021-08-21T11:12:31.818Z",
+        "type": "SUCCESS",
+        "message": "2cf1e0b0bdd84bc1 SMS List Updated - 0 New Messages"
+      },
+      {
+        "time": "2021-08-21T11:12:38.724Z",
+        "type": "INFO",
+        "message": "2cf1e0b0bdd84bc1 Disconnected"
+      },
+      {
+        "time": "2021-08-21T11:12:38.858Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Connected"
+      },
+      {
+        "time": "2021-08-21T11:13:09.263Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Disconnected"
+      },
+      {
+        "time": "2021-08-21T11:13:48.616Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Connected"
+      },
+      {
+        "time": "2021-08-21T11:13:48.619Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Running Queued Commands"
+      },
+      {
+        "time": "2021-08-21T11:13:48.621Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 4fff665a9bf17b54"
+      },
+      {
+        "time": "2021-08-21T11:13:48.863Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:49.515Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:49.520Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:49.524Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:49.526Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:49.529Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:49.531Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:49.533Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:49.535Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:49.537Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:49.540Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:49.542Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:49.544Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:49.546Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:49.549Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:49.552Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:49.554Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 4fff665a9bf17b54"
+      },
+      {
+        "time": "2021-08-21T11:13:49.783Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:49.897Z",
+        "type": "SUCCESS",
+        "message": "4fff665a9bf17b54 Contacts Updated - 91 New Contacts Added"
+      },
+      {
+        "time": "2021-08-21T11:13:49.900Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:49.904Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:49.907Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:49.910Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:49.970Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:49.973Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:49.976Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:50.156Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:50.611Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:50.765Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:50.768Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:51.065Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:51.242Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:51.246Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:51.422Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:51.583Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:51.782Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:51.966Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:52.205Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:52.210Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:52.471Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:52.475Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:52.558Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 4fff665a9bf17b54"
+      },
+      {
+        "time": "2021-08-21T11:13:52.742Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:52.747Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:53.284Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:53.288Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:53.292Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:53.297Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:53.543Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:53.658Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:53.833Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:53.940Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:54.131Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:54.349Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:54.555Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:54.560Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:54.756Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:54.995Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:55.000Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:55.169Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:55.278Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 4fff665a9bf17b54"
+      },
+      {
+        "time": "2021-08-21T11:13:55.285Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:55.288Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:55.427Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:55.557Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:55.653Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:55.828Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:55.925Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:56.163Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:56.358Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:56.464Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:56.636Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:56.640Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:56.736Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:56.895Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:57.251Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:57.515Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:57.521Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:57.525Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:57.716Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:57.885Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:57.889Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:58.179Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:58.186Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:58.417Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:58.422Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:58.842Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:58.845Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:58.850Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:59.063Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:59.069Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:59.073Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:59.160Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:59.253Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:59.482Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:59.613Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:59.684Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:13:59.875Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:00.062Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:00.156Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:00.293Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:00.496Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:00.589Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:00.662Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:01.291Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:01.708Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:01.710Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 4fff665a9bf17b54"
+      },
+      {
+        "time": "2021-08-21T11:14:01.737Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2021-08-21T11:14:02.409Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:02.854Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:02.972Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:03.153Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:03.355Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:03.597Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:03.767Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:03.879Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:04.035Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:04.260Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:04.573Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:04.787Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:04.795Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:04.894Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:05.057Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:05.211Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:05.343Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:05.966Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:06.114Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:06.120Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:06.123Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:06.281Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:06.425Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:06.572Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:06.772Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:06.990Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:06.995Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:07.295Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:07.300Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:07.467Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:07.474Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:07.726Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:08.125Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:08.129Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:08.134Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:08.137Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:08.282Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:08.453Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:08.576Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:08.582Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:08.677Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:08.857Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:08.862Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:08.866Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:08.996Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:09.293Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:09.299Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:09.483Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:09.489Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:09.644Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:09.649Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:09.983Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:09.989Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:10.103Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:10.108Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:10.199Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:10.274Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:10.447Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:10.627Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:10.830Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:10.836Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:10.896Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From 4fff665a9bf17b54"
+      },
+      {
+        "time": "2021-08-21T11:14:10.990Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:11.361Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:13.531Z",
+        "type": "SUCCESS",
+        "message": "4fff665a9bf17b54 Call Log Updated - 440 New Calls"
+      },
+      {
+        "time": "2021-08-21T11:14:13.538Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:13.545Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:13.558Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:13.563Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:13.571Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:13.578Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:13.583Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:13.590Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:13.595Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:13.601Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:13.608Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:13.614Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:13.619Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:13.625Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:13.628Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From 4fff665a9bf17b54"
+      },
+      {
+        "time": "2021-08-21T11:14:13.706Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:13.712Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:13.718Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:13.725Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:13.730Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:13.737Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:13.743Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:13.751Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:14.025Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:14.798Z",
+        "type": "SUCCESS",
+        "message": "4fff665a9bf17b54 Call Log Updated - 0 New Calls"
+      },
+      {
+        "time": "2021-08-21T11:14:14.805Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:14.810Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:14.816Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:14.822Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:14.828Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:14.834Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:14.843Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:14.850Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:15.113Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:15.316Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:15.589Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:15.830Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:15.953Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:16.018Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:17.494Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:17.500Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:17.609Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:17.786Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:18.076Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:18.339Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:18.421Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:18.427Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:18.524Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:18.718Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:19.077Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:19.300Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:19.844Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:19.852Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:19.860Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:19.868Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:19.877Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:20.065Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:20.073Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:20.309Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:20.415Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:20.423Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:20.560Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:20.740Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:21.142Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:21.149Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:21.311Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:21.318Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:21.478Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:21.592Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:21.601Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:21.774Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:21.879Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 4fff665a9bf17b54"
+      },
+      {
+        "time": "2021-08-21T11:14:21.913Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:22.129Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:22.472Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:22.662Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:22.670Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:22.852Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:23.095Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:23.285Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:23.293Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:23.611Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:23.795Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:23.989Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:24.117Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:24.283Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:24.425Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:24.989Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:25.070Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:25.282Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:25.362Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:25.588Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:25.824Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:26.056Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:26.182Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:26.191Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:26.345Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:26.583Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:27.354Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:27.511Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:27.519Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:27.789Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:28.053Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:28.325Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:28.526Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:28.640Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 4fff665a9bf17b54"
+      },
+      {
+        "time": "2021-08-21T11:14:28.686Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:28.693Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:29.328Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:29.490Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:29.499Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:29.508Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:29.651Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:30.113Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:30.286Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:30.489Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:31.374Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:31.560Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:31.567Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:31.575Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:31.584Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:31.765Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:31.772Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:31.944Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:32.030Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:32.040Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:32.186Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:32.573Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:32.830Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:32.839Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:32.846Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:33.002Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:33.011Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:33.018Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:33.163Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:33.432Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:33.626Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:33.812Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:34.354Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:34.452Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:34.530Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:36.628Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:36.637Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:36.999Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:37.099Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:37.196Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:37.268Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:37.458Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:37.636Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:39.138Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:39.261Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:39.270Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:39.277Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:39.285Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:39.695Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:39.703Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:39.711Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:39.720Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:39.728Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:39.734Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:39.742Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:39.749Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:39.969Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:40.106Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:40.329Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:40.337Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:41.042Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:41.051Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:41.059Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:41.298Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:41.310Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:41.320Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:41.329Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:41.337Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:41.417Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:41.549Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:41.558Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:41.857Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:42.230Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:42.238Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:42.463Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:42.473Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:42.481Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:42.678Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:42.686Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:42.942Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:42.950Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:43.180Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:43.188Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:43.313Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:43.322Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:43.535Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:43.819Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:43.827Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:44.078Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:44.087Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:44.095Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:44.195Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:44.302Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:44.455Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:44.725Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:44.899Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:44.907Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:45.095Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:45.104Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:45.332Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:45.339Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:45.442Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:45.800Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:46.176Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:46.185Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:46.193Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:46.204Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:46.265Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:46.274Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:46.460Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:46.639Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:46.887Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:46.896Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:47.090Z",
+        "type": "INFO",
+        "message": "Requested 0xWI From 4fff665a9bf17b54"
+      },
+      {
+        "time": "2021-08-21T11:14:47.169Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:47.303Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:47.313Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:47.337Z",
+        "type": "SUCCESS",
+        "message": "4fff665a9bf17b54 WiFi Updated - 3 New WiFi Hotspots Found"
+      },
+      {
+        "time": "2021-08-21T11:14:47.344Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:47.353Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:47.540Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:47.688Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:47.816Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:47.827Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:48.076Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:48.085Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:48.158Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:48.167Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:48.412Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:48.607Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:48.617Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:48.791Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:48.800Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:48.979Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:49.065Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:49.148Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:49.257Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:50.768Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:50.864Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:50.875Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:50.883Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:51.028Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:51.038Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:51.045Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:51.136Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:51.147Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:51.155Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:51.163Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:51.171Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:51.386Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:51.399Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:51.410Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:51.423Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:51.436Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:51.543Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:51.556Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:51.570Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:51.583Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:51.593Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:51.603Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:51.708Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:51.718Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:51.726Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:51.734Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:51.742Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:51.750Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:52.928Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:52.938Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:52.946Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:52.955Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:52.963Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:52.971Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:52.979Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:52.987Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:52.994Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:53.004Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:53.013Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:53.022Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:53.031Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:53.039Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:53.048Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:53.058Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:53.068Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:53.076Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:53.083Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:53.091Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:53.100Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:53.107Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:53.115Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:53.124Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:53.133Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:53.142Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:53.150Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:53.158Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:53.166Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:53.175Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:53.375Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:53.476Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:53.485Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:53.494Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:53.503Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:53.512Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:53.520Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:53.533Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:53.541Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:53.549Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:53.565Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:53.708Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:53.717Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:53.726Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:53.831Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:53.839Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:54.051Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:54.061Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:54.071Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:54.081Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:54.163Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:54.415Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:54.423Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:54.432Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:54.441Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:54.451Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:54.639Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:54.649Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:54.658Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:54.667Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:54.676Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:54.738Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:54.747Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:54.756Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:54.764Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:54.773Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:54.827Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:54.836Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:54.879Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:54.887Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:54.896Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Notification Recieved"
+      },
+      {
+        "time": "2021-08-21T11:14:56.085Z",
+        "type": "INFO",
+        "message": "Requested 0xPM From 4fff665a9bf17b54"
+      },
+      {
+        "time": "2021-08-21T11:14:56.164Z",
+        "type": "SUCCESS",
+        "message": "4fff665a9bf17b54 Permissions Updated"
+      },
+      {
+        "time": "2021-08-21T11:15:08.022Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From 4fff665a9bf17b54"
+      },
+      {
+        "time": "2021-08-21T11:15:09.742Z",
+        "type": "SUCCESS",
+        "message": "4fff665a9bf17b54 SMS List Updated - 0 New Messages"
+      },
+      {
+        "time": "2021-08-21T11:15:10.381Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From 4fff665a9bf17b54"
+      },
+      {
+        "time": "2021-08-21T11:15:11.169Z",
+        "type": "SUCCESS",
+        "message": "4fff665a9bf17b54 SMS List Updated - 0 New Messages"
+      },
+      {
+        "time": "2021-08-21T11:15:31.720Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 4fff665a9bf17b54"
+      },
+      {
+        "time": "2021-08-21T11:15:41.387Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 4fff665a9bf17b54"
+      },
+      {
+        "time": "2021-08-21T11:15:41.735Z",
+        "type": "ERROR",
+        "message": "4fff665a9bf17b54 GPS Recieved No Data"
+      },
+      {
+        "time": "2021-08-21T11:15:41.739Z",
+        "type": "ERROR",
+        "message": "4fff665a9bf17b54 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2021-08-21T11:15:49.426Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 4fff665a9bf17b54"
+      },
+      {
+        "time": "2021-08-21T11:15:49.711Z",
+        "type": "ERROR",
+        "message": "4fff665a9bf17b54 GPS Recieved No Data"
+      },
+      {
+        "time": "2021-08-21T11:15:49.717Z",
+        "type": "ERROR",
+        "message": "4fff665a9bf17b54 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2021-08-21T11:15:51.203Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 4fff665a9bf17b54"
+      },
+      {
+        "time": "2021-08-21T11:15:51.366Z",
+        "type": "ERROR",
+        "message": "4fff665a9bf17b54 GPS Recieved No Data"
+      },
+      {
+        "time": "2021-08-21T11:15:51.370Z",
+        "type": "ERROR",
+        "message": "4fff665a9bf17b54 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2021-08-21T11:15:54.450Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 4fff665a9bf17b54"
+      },
+      {
+        "time": "2021-08-21T11:15:54.523Z",
+        "type": "ERROR",
+        "message": "4fff665a9bf17b54 GPS Recieved No Data"
+      },
+      {
+        "time": "2021-08-21T11:15:54.527Z",
+        "type": "ERROR",
+        "message": "4fff665a9bf17b54 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2021-08-21T11:15:59.002Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 4fff665a9bf17b54"
+      },
+      {
+        "time": "2021-08-21T11:15:59.342Z",
+        "type": "ERROR",
+        "message": "4fff665a9bf17b54 GPS Recieved No Data"
+      },
+      {
+        "time": "2021-08-21T11:15:59.346Z",
+        "type": "ERROR",
+        "message": "4fff665a9bf17b54 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2021-08-21T11:26:01.531Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Disconnected"
+      },
+      {
+        "time": "2021-08-21T11:34:17.921Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Connected"
+      },
+      {
+        "time": "2021-08-21T11:34:48.348Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Disconnected"
+      },
+      {
+        "time": "2021-08-21T11:38:03.412Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      }
+    ],
+    "ipLog": []
+  },
+  "clients": [
+    {
+      "clientID": "4fff665a9bf17b54",
+      "firstSeen": "2021-08-21T11:03:24.867Z",
+      "lastSeen": "2021-08-21T11:34:48.351Z",
+      "isOnline": false,
+      "dynamicData": {
+        "clientIP": "192.168.1.7",
+        "clientGeo": {},
+        "device": {
+          "model": "C6902",
+          "manufacture": "Sony",
+          "version": "5.1.1"
+        }
+      }
+    },
+    {
+      "clientID": "2cf1e0b0bdd84bc1",
+      "firstSeen": "2021-08-21T11:05:30.374Z",
+      "lastSeen": "2021-08-21T11:12:38.728Z",
+      "isOnline": false,
+      "dynamicData": {
+        "clientIP": "192.168.1.7",
+        "clientGeo": {},
+        "device": {
+          "model": "POCO F1",
+          "manufacture": "Xiaomi",
+          "version": "10"
+        }
+      }
+    }
+  ]
+}
