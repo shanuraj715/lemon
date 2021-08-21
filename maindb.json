@@ -2948,6 +2948,16 @@
         "time": "2021-08-21T11:38:03.412Z",
         "type": "SUCCESS",
         "message": "Build Succeded!"
+      },
+      {
+        "time": "2021-08-21T11:45:47.819Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Connected"
+      },
+      {
+        "time": "2021-08-21T11:46:19.178Z",
+        "type": "INFO",
+        "message": "4fff665a9bf17b54 Disconnected"
       }
     ],
     "ipLog": []
@@ -2956,7 +2966,7 @@
     {
       "clientID": "4fff665a9bf17b54",
       "firstSeen": "2021-08-21T11:03:24.867Z",
-      "lastSeen": "2021-08-21T11:34:48.351Z",
+      "lastSeen": "2021-08-21T11:46:19.180Z",
       "isOnline": false,
       "dynamicData": {
         "clientIP": "192.168.1.7",
